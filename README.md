@@ -1,7 +1,5 @@
 # Task-3--Linear-Regression
 
-# Linear Regression on Furnishing Status Dataset
-
 ## Overview
 This project applies Linear Regression to predict the furnishing status based on given features.  
 The dataset was cleaned, preprocessed, and split into train and test sets.  
